@@ -1,0 +1,9 @@
+[mysql_cluster_data]
+srvmysqldn1
+srvmysqldn2
+
+[mysql_cluster_sql]
+srvmysqlsq1
+
+[mysql_cluster_mgm]
+srvmysqlmgr
